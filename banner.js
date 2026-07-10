@@ -5,7 +5,6 @@ document.write('\
 				<header>\
 \
 					<IMG STYLE=" width:100%; " SRC="images/UPISCIndex.png">\
-					<h2 style="color: red;" align="center"> Registration open until Friday, May 1st \
 \
 \
 				</header>\
